@@ -7,6 +7,6 @@
     "@jsdevtools/chai-exec": "^2.1.1",
     "chai": "^5.1.2",
     "deep-object-diff": "^1.1.9",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.1"
   }
 }
